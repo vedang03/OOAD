@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.invoke.CallSite"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.Employee"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.TaxUtil"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.PrinterUtil"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.FestivalType"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.FixedDeposit"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.IFestivalInterest"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.Calculate"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.DiwaliInterest"/>
+</qualifiedTypeNameHistroy>
