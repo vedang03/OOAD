@@ -24,9 +24,12 @@
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="com.aurionpro.model.ILunchInterval"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="com.aurionpro.model.IWorker"/>
     <fullyQualifiedTypeName name="com.aurionpro.model.Loader"/>
     <fullyQualifiedTypeName name="com.aurionpro.model.Robot"/>
     <fullyQualifiedTypeName name="com.aurionpro.model.IWorkable"/>
+    <fullyQualifiedTypeName name="java.awt.HeadlessException"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.Square"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.Rectangle"/>
 </qualifiedTypeNameHistroy>
